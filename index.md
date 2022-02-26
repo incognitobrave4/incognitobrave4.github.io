@@ -1,7 +1,8 @@
 ## Welcome to Incognito Brave
 
-YWe present a site which provides useful information for all of you.
+We present a site which provides useful information for all of you.
 and here is a list of our site posts
+
 [WA MOD](https://incognitobrave4.github.io/whatsappmod.html)
 
 [Berjuang](https://berjuang.my.id/)
