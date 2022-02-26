@@ -1,6 +1,6 @@
 layout: post
 title: "Whatsapp Mod"
-date: 2022-02-15 hh:mm:ss -0000
+date: 2022-02-15 
 categories: WA WAMOD
 
 ## Whatsapp Mod Terbaru 2022
