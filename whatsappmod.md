@@ -1,3 +1,8 @@
+layout: post
+title: "Whatsapp Mod"
+date: 2022-02-15 hh:mm:ss -0000
+categories: WA WAMOD
+
 ## Whatsapp Mod Terbaru 2022
 WhatsApp is a very popular chat application and is used by almost all smartphone users in this world. But now there is an application that is similar to WhatsApp but has more interesting features, namely GB WhatsApp.
 
